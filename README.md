@@ -1,0 +1,2 @@
+# AIEarththon
+AI Earth Hackathon
